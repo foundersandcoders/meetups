@@ -7,7 +7,7 @@ foundersandcoders.com/academy
   @founderscoders
 
 **Ask a FACer to join our Gitter channel to keep in touch!**  
-After creating a Github.com account, our channel is:  
+After creating a Github account, sign up to Gitter and ask one of us to add you to...  
 https://gitter.im/codingforeveryone
 
 ### When you arrive:
