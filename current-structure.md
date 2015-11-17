@@ -6,6 +6,9 @@ This document is intended as a guide for a structure to the 'coding for everyone
 
 Try to organise who will be running the next meetup on the Monday **before** so there are no last minute surprises with who is running the evening. If you can't attend the meetup you had subscribed to, please find a replacement.
 
+* **WEAR A FAC T-SHIRT**! (They're at the back if you've forgotten yours!)
+
+
 ## Timeline
 
 **6-6.15pm**
@@ -15,9 +18,9 @@ Try to organise who will be running the next meetup on the Monday **before** so 
 * Introduce people to gitter channel
 
 **6.15pm**
-* Give an initial presentation
+* Give an initial presentation **explaining about the course and encourage people to apply**
 * Direct people to Codeacamemy or Codewars
-* Encourage pairing
+* Encourage pairing in pairs of similar ability
 
 **Then..**
 * Be on hand to help anyone who might need it
@@ -49,6 +52,14 @@ Possible subjects:
 ## To be projected
 
 We have another markdown file in this repo located [here](https://github.com/FAC6/Improvements-to-coding-for-everyone/blob/master/toProject.md) which is what we project on the board. Again, it is not a doctrine and can be moderated according to the content of the evening.
+
+## Write on whiteboard
+
+* Write on whiteboard:
+ * Who the FACers are for the event
+ * Katas of the week   
+
+
 
 ## House rules
 
