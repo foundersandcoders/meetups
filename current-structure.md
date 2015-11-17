@@ -59,8 +59,6 @@ We have another markdown file in this repo located [here](https://github.com/FAC
  * Who the FACers are for the event
  * Katas of the week   
 
-
-
 ## House rules
 
 Pack up by 8:30. We hate to say goodbye to guests but there's always the week after!
