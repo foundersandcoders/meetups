@@ -1,5 +1,7 @@
 # Coding for Everyone
 
+This has been exported to a C4E repo [here](https://github.com/codingforeveryone/project-on-board) so make sure changes here are posted there.
+
 **Our FREE course is detailed here**:  
 foundersandcoders.com/academy  
 
